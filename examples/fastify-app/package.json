@@ -1,0 +1,13 @@
+{
+  "name": "passport-tiktok-oauth2-fastify-demo",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "fastify": "^5.0.0",
+    "@fastify/cookie": "^9.0.0",
+    "@fastify/session": "^10.0.0",
+    "@fastify/passport": "^2.0.0",
+    "passport-tiktok-oauth2": "file:../.."
+  }
+}
